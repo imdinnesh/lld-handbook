@@ -28,3 +28,18 @@ This directory contains a collection of comprehensive notes and examples on core
     - Representing a "uses-a" relationship where changes to one class may affect another.
 12. [Realization](./12.Realization.md)
     - Implementing an interface or abstraction, bridging the gap between definition and implementation.
+13. [DRY Principle](./13.DryPrinciples.md)
+    - "Don't Repeat Yourself" – ensuring every piece of knowledge has a single, unambiguous, authoritative representation.
+14. [KISS Principle](./14.KISS.md)
+    - "Keep It Simple, Stupid" – focusing on writing the simplest sufficient code to minimize bugs and overhead.
+15. [YAGNI Principle](./15.YAGNI.md)
+    - "You Aren't Gonna Need It" – avoiding over-engineering and speculative features until they are actually needed.
+16. [Law of Demeter](./16.LOD.md)
+    - The Principle of Least Knowledge – keeping object interactions clean and localized to immediate collaborators, avoiding dot-chaining.
+17. [Separation of Concerns](./17.SOC.md)
+    - Dividing a program into distinct sections, where each section addresses a single domain responsibility or technical layer.
+18. [Coupling and Cohesion](./18.COC.md)
+    - Maximizing internal focus (cohesion) within modules while minimizing external dependencies (coupling) between them.
+19. [Composing Objects Principle](./19.COP.md)
+    - Favoring composition over inheritance to build flexible, runtime-interchangeable components without class explosion.
+
