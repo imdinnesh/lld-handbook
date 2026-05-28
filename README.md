@@ -42,4 +42,9 @@ This directory contains a collection of comprehensive notes and examples on core
     - Maximizing internal focus (cohesion) within modules while minimizing external dependencies (coupling) between them.
 19. [Composing Objects Principle](./19.COP.md)
     - Favoring composition over inheritance to build flexible, runtime-interchangeable components without class explosion.
+20. [Single Responsibility Principle](./20.SRP.md)
+    - "A class should have one, and only one, reason to change" – focusing on small, cohesive classes that do one thing and do it well.
+21. [Open-Closed Principle](./21.OCP.md)
+    - "Software entities should be open for extension, but closed for modification" – using abstraction to welcome new behavior without touching old code.
+
 
